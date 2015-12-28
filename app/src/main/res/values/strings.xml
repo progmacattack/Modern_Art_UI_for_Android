@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ModernArtUI</string>
+    <string name="more_information">More Information</string>
+    <string name="more_info_dialog">This project was created for "Programming Mobile Application for Android" course. The background art is
+    inspired by Piet Mondrian. Thanks for looking!</string>
+    <string name="go">Visit MOMA</string>
+    <string name="cancel">Not Now</string>
+</resources>
